@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>aliyun-java-sdk-iot</name>
+  <comment>Aliyun Open API SDK for Java
+
+Copyright (C) Alibaba Cloud Computing
+All rights reserved.
+
+版权所有 （C）阿里云计算有限公司
+
+http://www.aliyun.com. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
